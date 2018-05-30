@@ -1,0 +1,17 @@
+{
+  "name": "test_partialreads",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test_partialreads.js",
+  "scripts": {
+    "start": "node ./test_partialreads.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "async": "^2.6.1",
+    "dat-node": "https://github.com/magland/dat-node",
+    "temporary-directory": "^1.0.2"
+  },
+  "author": "",
+  "license": "Apache-2.0"
+}
